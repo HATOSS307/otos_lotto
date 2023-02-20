@@ -1,0 +1,11 @@
+C:\Users\cisco\source\repos\otoslotto\otoslotto\bin\Debug\otoslotto.exe.config
+C:\Users\cisco\source\repos\otoslotto\otoslotto\bin\Debug\otoslotto.exe
+C:\Users\cisco\source\repos\otoslotto\otoslotto\bin\Debug\otoslotto.pdb
+C:\Users\cisco\source\repos\otoslotto\otoslotto\obj\Debug\otoslotto.csproj.AssemblyReference.cache
+C:\Users\cisco\source\repos\otoslotto\otoslotto\obj\Debug\otoslotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\cisco\source\repos\otoslotto\otoslotto\obj\Debug\otoslotto.Form1.resources
+C:\Users\cisco\source\repos\otoslotto\otoslotto\obj\Debug\otoslotto.Properties.Resources.resources
+C:\Users\cisco\source\repos\otoslotto\otoslotto\obj\Debug\otoslotto.csproj.GenerateResource.cache
+C:\Users\cisco\source\repos\otoslotto\otoslotto\obj\Debug\otoslotto.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\otoslotto\otoslotto\obj\Debug\otoslotto.exe
+C:\Users\cisco\source\repos\otoslotto\otoslotto\obj\Debug\otoslotto.pdb
